@@ -1,5 +1,7 @@
 # Alert Check Folder
 
+<a href="https://github.com/sstybel/alert-check-folder/releases/latest"><img alt="Static Badge" src="https://img.shields.io/badge/download-red?style=for-the-badge&label=stable&color=%23FF0000&link=https%3A%2F%2Fgithub.com%2Fsstybel%2Falert-check-folder%2Freleases%2Flatest"></a> ![GitHub Release](https://img.shields.io/github/v/release/sstybel/alert-check-folder?sort=date&display_name=release&style=for-the-badge&logo=github&label=release&link=https%3A%2F%2Fgithub.com%2Fsstybel%2Falert-check-folder) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/sstybel/alert-check-folder/total?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fsstybel%2Falert-check-folder)
+
 This simple application displays a formatted message window on the screen when a directory with a specific name exists in the specified location.
 
 We can influence several features of the displayed message window:
@@ -19,5 +21,17 @@ We can influence several features of the displayed message window:
 * `--message-text MESSAGE_TEXT` - Text of the message box
 * `--message-icon MESSAGE_ICON` - Icon of the message box (`info`, `warning`, `error`)
 * `--help`, `-h` - Show this help message and exit
+
+## Download
+
+<a href="https://github.com/sstybel/alert-check-folder/releases/latest"><img alt="Static Badge" src="https://img.shields.io/badge/download-red?style=for-the-badge&label=stable&color=%23FF0000&link=https%3A%2F%2Fgithub.com%2Fsstybel%2Falert-check-folder%2Freleases%2Flatest"></a> ![GitHub Release](https://img.shields.io/github/v/release/sstybel/alert-check-folder?sort=date&display_name=release&style=for-the-badge&logo=github&label=release&link=https%3A%2F%2Fgithub.com%2Fsstybel%2Falert-check-folder) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/sstybel/alert-check-folder/total?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fsstybel%2Falert-check-folder)
+
+##  GitHub
+
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sstybel&show_icons=true&theme=react&hide_title=true&include_all_commits=true)
+
+&nbsp;
+
+---
 
 ## Copyright &copy; 2025 by Sebastian Stybel, [www.BONO.Edu.PL](https://www.bono.edu.pl/)
